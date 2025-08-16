@@ -66,3 +66,6 @@ Retorna 1 si están balanceados, 0 en caso contrario.
 > **Paréntesis balanceados** se refiere a una secuencia en la que cada tipo de paréntesis abierto (ya sean paréntesis redondos `()`, corchetes `[]`, o llaves `{}`) se cierra en el orden inverso al que se abrió. Esto asegura que todas las aperturas tienen su correspondiente cierre en el orden correcto. 
   Por ejemplo, la secuencia `([{}])` está balanceada porque cada paréntesis que se abre se cierra adecuadamente en reversa a su orden de apertura. 
   En contraste, `([)]` es un ejemplo de paréntesis desbalanceados, ya que aunque todos los tipos de paréntesis se abren y cierran, el orden no es el correcto: el corchete se cierra antes de cerrar el paréntesis que lo contiene inicialmente.
+
+### PARA USAR COMANDOS DE GIT EN EL TERMINAL
+https://chartreuse-goal-d5c.notion.site/Git-Github-con-VSCode-b21610c449f24ed095ba0b692251e785
